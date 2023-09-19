@@ -8,7 +8,7 @@
   [GNU GENERAL PUBLIC LICENSE v3](https://gnu.org/licenses/gpl-3.0.html)
 
 ## Authors
-  Luqian Jiang (jlq0608@gmail.com)
+  Luqian Jiang (jlq0608@gmail.com)  
   Wei Zhang    (zhangwei@sustech.edu.cn)
 
 ## Availability and use of the program package
