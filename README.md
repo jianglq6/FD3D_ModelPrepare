@@ -11,6 +11,19 @@
   Luqian Jiang (jlq0608@gmail.com)  
   Wei Zhang    (zhangwei@sustech.edu.cn)
 
+## Directory layout
+  * media/media_layer2model.cpp:  
+    functions of medium parameterization for layer-based velocity model 
+
+  - media/media_grid2model.cpp:  
+    functions of medium parameterization for grid-based velocity model 
+
+  + media/media_utility.cpp:  
+    the functions required for computing equivalent medium parameterization 
+
+  - media/media_geometry3d.cpp:  
+    3D geometry-related functions  
+
 ## Availability and use of the program package
 
   Upon request from the authors.
