@@ -13,16 +13,16 @@
 
 ## Directory layout
   * media/media_layer2model.cpp:  
-    functions of medium parameterization for layer-based velocity model 
+    &ensp;functions of medium parameterization for layer-based velocity model 
 
   - media/media_grid2model.cpp:  
-    functions of medium parameterization for grid-based velocity model 
+    &ensp;functions of medium parameterization for grid-based velocity model 
 
   + media/media_utility.cpp:  
-    the functions required for computing equivalent medium parameterization 
+    &ensp;the functions required for computing equivalent medium parameterization 
 
   - media/media_geometry3d.cpp:  
-    3D geometry-related functions  
+    &ensp;3D geometry-related functions  
 
 ## Availability and use of the program package
 
