@@ -815,7 +815,7 @@ void read_grid_file(
             fflush(stderr); 
             exit(1); 
         }
-        if (iy0 < 0 || iy0 > NY) {
+        if (iy0 < 0 || iy1 > NY) {
             fprintf(stderr, "Error: The given media range is smaller than "\
                 "the calculation grid range in y-direction! \n");
             fflush(stderr); 
